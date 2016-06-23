@@ -9,7 +9,6 @@ npm init
 ```
 npm install --save express
 npm install --save formidable
-npm install --save silly-datetime
 npm install --save mongoose
 npm install --save mongodb
 ```
@@ -55,8 +54,11 @@ npm install browser-sync gulp --save-dev
 gulp
 ```
 
+####相关连接
 
-[JSPM官网](http://jspm.io/)
-[JSPM文档](http://jspm.io/docs/getting-started.html)
-[browsersync官网](https://browsersync.io/)
-[Browsersync + Gulp.js](https://www.browsersync.io/docs/gulp/)
+* [JSPM官网](http://jspm.io/)
+* [JSPM文档](http://jspm.io/docs/getting-started.html)
+* [Browsersync官网](https://browsersync.io/)
+* [Browsersync + Gulp.js](https://www.browsersync.io/docs/gulp/)
+* [silly-datetime](https://github.com/csbun/silly-datetime)
+* [gulp官网](http://gulpjs.com/)
